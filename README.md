@@ -29,5 +29,6 @@ At **Softelligence**, I act as the **Team Lead** for the **Advanced Analytics** 
 - [RevoScaleR](https://docs.microsoft.com/en-us/machine-learning-server/r-reference/revoscaler/revoscaler)
 - [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/)
 - [Databricks](https://databricks.com/) & [Delta Lake](https://delta.io/)
+- [Power BI](https://powerbi.microsoft.com/en-us/)
 - [Apache Spark](https://spark.apache.org/) & [Apache Impala](https://impala.apache.org/) in [Cloudera CDP](https://www.cloudera.com/products/cloudera-data-platform.html)
 - Data Lakes: [Azure Data Lake Storage Gen2](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction), [Amazon S3](https://aws.amazon.com/s3/)
