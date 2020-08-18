@@ -3,9 +3,8 @@
 ### This is me
 My name is Laurentiu Diaconu and I am based in Bucharest, Romania. I am passionate about Machine Learning, Data, Sports and Finance.
 
-I like :hammer: stuff and then :wrench: everything. I am happy to help everyone who has a question around anything I have worked with or related, so feel free to reach out!
+I like :hammer: stuff and then :wrench: everything. I am happy to help everyone who has a question around anything I have worked with or related, so feel free to reach out to me via:
 
-Reach out to me:
 - [Mail](laurentiu.diaconu@innaite.tech)
 - [LinkedIn](https://www.linkedin.com/in/laurentiudiaconu/)
 ---
