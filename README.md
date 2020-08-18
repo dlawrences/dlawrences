@@ -17,7 +17,7 @@ At **matchpoint.**, I act as the **CTO** and I usually like to work with the fol
 - [PyTorch](https://github.com/pytorch/pytorch)
 - [TensorFlow](https://www.tensorflow.org/)
 - [OpenCV](https://opencv.org/)
-- [Apple Neural Engine](https://github.com/hollance/neural-engine)
+- [CoreMLTools](https://github.com/apple/coremltools)
 - [Swift](https://developer.apple.com/swift/)
 
 I also work for [**Softelligence**](https://www.softelligence.net/), a technology services and consulting firm where we combine business knowledge and digital culture, platforms and build services with data and AI-enabled process optimization to accelerate data-driven digital transformation.
