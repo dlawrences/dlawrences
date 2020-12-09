@@ -20,9 +20,9 @@ At **matchpoint.**, I act as the **CTO** and I usually like to work with the fol
 - [CoreMLTools](https://github.com/apple/coremltools)
 - [Swift](https://developer.apple.com/swift/)
 
-I also work for [**Softelligence**](https://www.softelligence.net/), a technology services and consulting firm where we combine business knowledge and digital culture, platforms and build services with data and AI-enabled process optimization to accelerate data-driven digital transformation.
+I worked for [**Softelligence**](https://www.softelligence.net/), a technology services and consulting firm where we combined business knowledge and digital culture, platforms and build services with data and AI-enabled process optimization to accelerate data-driven digital transformation.
 
-At **Softelligence**, I act as the **Team Lead** for the **Advanced Analytics** practice and I usually like to work with the following:
+At **Softelligence**, I acted as the **Team Lead** for the **Advanced Analytics** practice and I usually liked to work with the following:
 
 - [Scikit-learn](https://scikit-learn.org/)
 - [RevoScaleR](https://docs.microsoft.com/en-us/machine-learning-server/r-reference/revoscaler/revoscaler)
