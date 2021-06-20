@@ -10,9 +10,11 @@ I like :hammer: stuff and then :wrench: everything. I am happy to help everyone 
 ---
 ### And now the boring stuff...
 
-In December 2019, I co-founded my first company with a dear friend. At [**matchpoint.** (*innAIte technologies*)](https://matchpoint.innaite.tech/), we envision the future of professional :tennis: training and we build it with the help of AI and Computer Vision.
+I am currently the Tech Lead for Data Engineering & Analytics at [Verumex](https://engineering.verumex.com/), where I am leading 10+ very talent engineers in building a world class event-driven Cloud Data Platform around Snowflake, Sqitch, Power BI to enable real-time self-service analytics for Real Estate investors.
 
-At **matchpoint.**, I act as the **CTO** and I usually like to work with the following:
+In December 2019, I co-founded my first company with a dear friend. At [**matchpoint.** (*innAIte technologies*)](https://matchpoint.innaite.tech/), we envisioned the future of professional :tennis: training and we tried to build it with the help of AI and Computer Vision.
+
+At **matchpoint.**, I acted as the **CTO** and I usually liked to work with the following:
 
 - [PyTorch](https://github.com/pytorch/pytorch)
 - [TensorFlow](https://www.tensorflow.org/)
