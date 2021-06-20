@@ -5,7 +5,7 @@ My name is Laurentiu Diaconu and I am based in Bucharest, Romania. I am passiona
 
 I like :hammer: stuff and then :wrench: everything. I am happy to help everyone who has a question around anything I have worked with or related, so feel free to reach out to me via:
 
-- [Mail](laurentiu.diaconu@innaite.tech)
+- [Mail](dlorentsen1@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/laurentiudiaconu/)
 ---
 ### And now the boring stuff...
