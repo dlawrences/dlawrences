@@ -10,7 +10,7 @@ I like :hammer: stuff and then :wrench: everything. I am happy to help everyone 
 ---
 ### And now the boring stuff...
 
-I am the Data Platform Director of [Chatham Financial](https://www.chathamfinancial.com), where I am leading 20+ very talented engineers in building a world class event-driven Data Platforms around Snowflake, Azure, Cube Core, Power BI and others.
+I am the Data Platform Director of [Chatham Financial](https://www.chathamfinancial.com), where I am leading 20+ very talented engineers in building a world class event-driven Data Platforms around Snowflake, Azure, Cube Core, Power BI and others, to supercharge capital markets decision-making. I joined the company through Verumex's acquisition in Oct 2024. In Verumex, I was the VP of Data and leading a very similar team with a highly comparable mission, albeit for Real Assets data only.
 
 Previously, in December 2019, I co-founded my first company with a dear friend. At [**matchpoint.** (*innAIte technologies*)](https://matchpoint.innaite.tech/), we envisioned the future of professional :tennis: training and we tried to build it with the help of AI and Computer Vision.
 
